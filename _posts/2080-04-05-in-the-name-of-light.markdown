@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  以光之名 \nIn the Name of Light
+title:  以光之名 In the Name of Light
 date:   2080-04-05 16:05:55 +0300
 image:  01.jpg
 tags:   [Me]
