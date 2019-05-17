@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于/About
-image: 08.jpg
+image: Author2.JPG
 permalink: /about/
 ---
 
