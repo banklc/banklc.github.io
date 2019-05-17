@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The path to self-perfection
+title:  挪威 🇳🇴The path to self-perfection
 date:   2019-08-23 16:03:30 +0300
 image:  05.jpg
 tags:   Life
