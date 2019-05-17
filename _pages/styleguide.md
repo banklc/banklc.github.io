@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Style Guide
+title: 故事/Story
 permalink: /styleguide/
 image: 11.jpg
 ---
