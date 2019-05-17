@@ -2,7 +2,7 @@
 layout: post
 title:  奥地利 Austria 🇦🇹
 date:   2015-12-28 16:03:30 +0300
-image:  Austria.jpg
+image:  Austria.JPG
 tags:   奥地利-Austria
 ---
 Unicorn vegan humblebrag whatever microdosing, yr pabst post-ironic chartreuse. IPhone irony fingerstache microdosing juice poutine. 
