@@ -14,6 +14,7 @@ permalink: /about/
 ---
 
 #### 教育背景 Education
+{% highlight markdown %}
 <small>2016 - 2020 | Switzerland </small><br>
 Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
@@ -23,3 +24,4 @@ M.Sc, Materials Physics, University of Rennes I<br>
 
 <small>2009 - 2013 | China </small><br>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
+{% endhighlight %}
