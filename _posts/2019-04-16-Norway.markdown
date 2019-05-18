@@ -15,7 +15,7 @@ tags:   [挪威,Norway]
     <tr><td>那里空气充满宁静</td><td>The air is full of tranquillity</td></tr>
     <tr><td>雪白明月照在大地</td><td>Snowwhite moon light is shining the land<td></tr>
     <tr><td>藏著你不愿提起的回忆</td><td>The place holding all the memories not willing to mention</td></tr>
-    <tr><td>伍佰 & China Blue《挪威的森林》</td><td>Wubai & China Blue "Norwegian Wood"</td></tr>
+    <tr><td>伍佰 & China Blue《挪威的森林》</td><td>Wubai & China Blue "Norwegian Wood" Lyric</td></tr>
   </table>
 </div>
 {% endhighlight %}  
