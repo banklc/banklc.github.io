@@ -17,4 +17,4 @@ tags:   [挪威,Norway]
 伍佰 - 《挪威的森林》  
 {% endhighlight %}  
 
-
+![](/img/norway/norway01.jpg)
