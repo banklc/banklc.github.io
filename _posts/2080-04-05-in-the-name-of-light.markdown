@@ -19,7 +19,7 @@ tags:   [以光之名]
 ---
 ![](/img/Cover/SLS.png)
 
-<small>图例: a) 凌晨四点钟的瑞士光源; b) 用于燃料电池研发的0.1秒超快CT; c) 超快CT用于燃料电池气体扩散层中水的实时可视化</small><br>
+<small>图例: a) 凌晨四点钟的瑞士光源; b) 0.1秒超快同步光源CT; c) 超快CT用于燃料电池气体扩散层中水的实时可视化</small><br>
 <small>Figure: a) The Swiss Light Source entrance at 4:00AM; b) 0.1s fast synchrotron X-ray tomography (sXTM) for Fuel Cell Research; c) Visulization of water in gas diffusion layer (GDL: Freudenberg I6) in operando polymer electrolyte fuel cells (PEFCs) by 0.1s fast sXTM.</small>
 
 ---
