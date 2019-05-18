@@ -8,16 +8,11 @@ tags:   [挪威,Norway]
 
 ### 挪威的森林 - Norwegian Wood - ノルウェーの森
 
-
-<div class="table-container">
-  <table>
-    <tr><td>那里湖面总是澄清</td><td>The lake is always clear</td></tr>
-    <tr><td>那里空气充满宁静</td><td>The air is full of tranquillity</td></tr>
-    <tr><td>雪白明月照在大地</td><td>Snowwhite moon light is shining the land<td></tr>
-    <tr><td>藏著你不愿提起的回忆</td><td>The place holding all the memories not willing to mention</td></tr>
-    <tr><td>伍佰《挪威的森林》</td><td>Wubai & China Blue "Norwegian Wood" Lyric</td></tr>
-  </table>
-</div>
+那里湖面总是澄清 | The lake is always clear  
+那里空气充满宁静 | The air is full of tranquillity  
+雪白明月照在大地 | Snowwhite moon light is shining the land  
+藏著你不愿提起的回忆 | The place holding all the memories not willing to mention  
+伍佰《挪威的森林》 | Wubai & China Blue "Norwegian Wood" Lyric  
 
 ---
 
