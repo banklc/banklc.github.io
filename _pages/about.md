@@ -19,8 +19,8 @@ permalink: /about/
 <div class="table-container">
   <table>
     <tr><td><small>Smart Phones </small></td><td><small>Digital Camera</small></td><td><small>Single-lens Reflex Camera</small></td><td><small>Action Camera</small></td></tr>
-    <tr><td>2009/Nokia N81</td><td>2009/SONY DSC-T900</td><td>2012/Nikon D90</td><td>2015/GoPro Hero 5</td></tr>
-    <tr><td>2010/Nokia N85</td><td> </td></tr>
+    <tr><td>2009/Nokia N81</td><td>2009/SONY DSC-T900</td><td>2012/Nikon D90</td><td>2015/GoPro Hero 5 (lost)</td></tr>
+    <tr><td>2010/Nokia N85</td><td> </td><td> </td><td>2016/GoPro Hero 5</td></tr>
     <tr><td>2011/Motorola ME860</td><td> </td></tr>
     <tr><td>2012/HTC T528w</td><td> </td></tr>
     <tr><td>2013/iPhone 5s</td><td> </td></tr>
