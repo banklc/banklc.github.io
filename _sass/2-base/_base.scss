@@ -177,7 +177,7 @@ pre {
 }
 
 table {
-  font-size: 14px;
+  font-size: 16px;
   color:$body-color;
   width: 100%;
   border-width: 1px;
@@ -187,8 +187,8 @@ table {
 }
 
 table th {
-  padding: 8px;
-  font-size: 14px;
+  padding: 0px;
+  font-size: 16px;
   text-align: left;
   /*border: 1px solid $gray-blue;*/
   border: 1px solid transparent;
@@ -208,8 +208,8 @@ table tr {
 }
 
 table td {
-  padding: 8px;
-  font-size: 14px;
+  padding: 0px;
+  font-size: 16px;
   border: 1px solid transparent
   /*border: 1px solid $gray-blue;*/
 }
