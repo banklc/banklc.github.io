@@ -15,7 +15,7 @@ My name is Hong Xu, I'm currently a doctoral candidate at ETH Zürich in Switzer
 Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
 <small>2014 - 2016 | Munich, Germany </small><br>
-M.Sc, Materials Physics, Technical University of Munich<br>
+M.Sc, Polymer Physics, Technical University of Munich<br>
 
 <small>2009 - 2013 | Beijing, China </small><br>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
