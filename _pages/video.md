@@ -21,3 +21,5 @@ https://www.zhihu.com/video/1106389872612454400
 <video class="_1k7bcr7" preload="metadata" playsinline="" webkit-playsinline="" x-webkit-airplay="deny" src="https://v.vzuu.com/video/1106389872612454400?" style="object-fit: contain;"></video>
 
 <iframe src="//v.vzuu.com/video/1106389872612454400?" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//www.zhihu.com/video/1106389872612454400" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
