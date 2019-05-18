@@ -8,11 +8,11 @@ image: /portrait/p01.jpg
 入鏡：表姐 Cousin
 
 
-![](/img/portrait/p02.jpg)
+![](/img/portrait/p02.JPG)
 2013.10 - 大理古城, 中國雲南 - Dali, Yunnan, China 🇨🇳 
 入鏡：路人 
 
 
-![](/img/portrait/p03.jpg)
+![](/img/portrait/p03.JPG)
 2013.10 - 大理古城, 中國雲南 - Dali, Yunnan, China 🇨🇳 
 入鏡：路人小孩
