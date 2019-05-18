@@ -19,13 +19,13 @@ permalink: /about/
 <div class="table-container">
   <table>
     <tr><td><small>手机 Smart Phones </small></td><td><small>相机 Digital Camera</small></td><td><small>单反 Single-lens Reflex Camera</small></td><td><small>运动相机 Action Camera</small></td></tr>
-    <tr><td>2009/Nokia N81</td><td>2009/SONY DSC-T900</td><td>2012/Nikon D90</td><td>2015/GoPro Hero 5 (lost)</td></tr>
-    <tr><td>2010/Nokia N85</td><td> </td><td> </td><td>2016/GoPro Hero 5</td></tr>
-    <tr><td>2011/Motorola ME860</td><td> </td></tr>
-    <tr><td>2012/HTC T528w</td><td> </td></tr>
-    <tr><td>2013/iPhone 5s</td><td> </td></tr>
-    <tr><td>2017/iPhone 7</td><td> </td></tr>
-    <tr><td>2019/Huawei Mate 20</td><td> </td></tr>
+    <tr><td>2009/ Nokia N81</td><td>2009/ SONY DSC-T900</td><td>2012/ Nikon D90</td><td>2015/ GoPro Hero 5 (lost)</td></tr>
+    <tr><td>2010/ Nokia N85</td><td> </td><td> </td><td>2016/ GoPro Hero 5</td></tr>
+    <tr><td>2011/ Motorola ME860</td><td> </td></tr>
+    <tr><td>2012/ HTC T528w</td><td> </td></tr>
+    <tr><td>2013/ iPhone 5s</td><td> </td></tr>
+    <tr><td>2017/ iPhone 7</td><td> </td></tr>
+    <tr><td>2019/ Huawei Mate 20</td><td> </td></tr>
   </table>
 </div>
 
@@ -45,6 +45,6 @@ M.Sc, Polyer Physics, Technical University of Munich<br>
 硕士, 材料物理, 雷恩一大<br>
 Maîtrise, Materials Physics, University of Rennes I<br>
 
-<small>2009 - 2013 | China </small><br>
+<small>2009 - 2013 | 中国 China </small><br>
 本科, 材料科学, 北京交通大学<br>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
