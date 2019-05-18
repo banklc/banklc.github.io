@@ -5,9 +5,8 @@ date:   2019-04-16 16:03:30 +0300
 image:  Norway.jpg
 tags:   [挪威,Norway]
 ---
-{% highlight markdown %}
+
 ### 挪威的森林 - Norwegian Wood - ノルウェーの森
-{% endhighlight %}  
 
 <div class="table-container">
   <table>
