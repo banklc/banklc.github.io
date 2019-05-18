@@ -33,9 +33,9 @@ permalink: /about/
 
 #### 教育背景 Education
 
-<small>2016 - 2020 | 瑞士 Switzerland </small><br><img src="https://XuHongCN.github.io/images/ETH_logo.png" width="40" align="right" ><br/>
-博士生, 能源与计算机成像, 苏黎世联邦理工<br>
-Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
+<small>2016 - 2020 | 瑞士 Switzerland </small><br>博士生, 能源与计算机成像, 苏黎世联邦理工<br>Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br><img src="https://XuHongCN.github.io/images/ETH_logo.png" width="40" align="right" ><br/>
+
+
 
 <small>2015 - 2016 | 德国 Germany </small><br>
 硕士, 高分子物理, 慕尼黑工大<br>
