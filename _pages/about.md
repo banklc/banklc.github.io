@@ -19,9 +19,11 @@ Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercat
 Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
 
 #### Education
-<small>2016 - 2020 </small>
-Ph.D Candiate, Energy/Computational Imaging, ETH Zürich
-<small>2014 - 2016 </small>
-M.Sc, Materials Physics, Technical University of Munich
-<small>2009 - 2013 </small>
-B.Sc, Materials Science, Beijing Jiaotong University
+<small>2016 - 2020 </small><br>
+Ph.D Candiate, Energy/Computational Imaging, ETH Zürich<br>
+
+<small>2014 - 2016 </small><br>
+M.Sc, Materials Physics, Technical University of Munich<br>
+
+<small>2009 - 2013 </small><br>
+B.Sc, Materials Science, Beijing Jiaotong University<br>
