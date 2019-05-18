@@ -9,10 +9,8 @@ permalink: /about/
 <small>1993 - Present | PEK - CDG - MUC - ZRH ->? </small>
 
 <div class="wrap">
-        <img src="/img/about/a01.jpg" alt="">
         <span>My name is Hong Xu, I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been ffal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.</span>
-</div>
-
+        <img src="/img/about/a01.jpg" alt="" width="300" height="700"></div>
 <br>
 
 
