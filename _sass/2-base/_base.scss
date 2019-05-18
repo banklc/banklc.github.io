@@ -181,7 +181,8 @@ table {
   color:$body-color;
   width: 100%;
   border-width: 1px;
-  border-color: $gray-blue;
+  /*border-color: $gray-blue;*/
+  border-color: transparent;	
   border-collapse: collapse;
 }
 
@@ -189,7 +190,8 @@ table th {
   padding: 8px;
   font-size: 16px;
   text-align: left;
-  border: 1px solid $gray-blue;
+  /*border: 1px solid $gray-blue;*/
+  border: 1px solid transparent;
   color: $body-color;
   background-color: transparent;
   /*background-color: $primary-color;*/
@@ -208,7 +210,8 @@ table tr {
 table td {
   padding: 8px;
   font-size: 14px;
-  border: 1px solid $gray-blue;
+  border: 1px solid transparent
+  /*border: 1px solid $gray-blue;*/
 }
 
 table tr:hover {
