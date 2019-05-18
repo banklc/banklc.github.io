@@ -24,7 +24,6 @@ tags:   [以光之名]
 <br>
 <br>
 Photography - the Philosophy in the Name of the Light.
-</p>
 
 ![]({{site.baseurl}}/img/00.ipg)
 
