@@ -33,18 +33,18 @@ permalink: /about/
 
 #### 教育背景 Education
 
-<small>2016 - 2020 | 瑞士 Switzerland </small><br><img src="https://XuHongCN.github.io/images/ETH_logo.png" width="40" align="right" ><br/>
-博士生, 能源与计算机成像, 苏黎世联邦理工<br>
+<small>2016 - 2020 | 瑞士 Switzerland </small><br>
+博士生, 能源与计算机成像, 苏黎世联邦理工<br><img src="https://XuHongCN.github.io/images/ETH_logo.png" width="40" align="right" ><br/>
 Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
-<small>2015 - 2016 | 德国 Germany </small><br><img src="https://XuHongCN.github.io/images/TUM_LMU_logo.png" width="40" align="right" ><br/>
-硕士, 高分子物理, 慕尼黑工大<br>
+<small>2015 - 2016 | 德国 Germany </small><br>
+硕士, 高分子物理, 慕尼黑工大<br><img src="https://XuHongCN.github.io/images/TUM_logo.png" width="40" align="right" ><br/>
 M.Sc, Polyer Physics, Technical University of Munich<br>
 
-<small>2014 - 2015 | 法国 France </small><br><img src="https://XuHongCN.github.io/images/BJTU_logo.png" width="40" align="right" ><br/>
-硕士, 材料物理, 雷恩一大<br>
+<small>2014 - 2015 | 法国 France </small><br>
+硕士, 材料物理, 雷恩一大<br><img src="https://XuHongCN.github.io/images/BJTU_logo.png" width="40" align="right" ><br/>
 Maîtrise, Materials Physics, University of Rennes I<br>
 
-<small>2009 - 2013 | 中国 China </small><br><img src="https://XuHongCN.github.io/images/BJTU_logo.png" width="40" align="right" ><br/>
-本科, 材料科学, 北京交通大学<br>
+<small>2009 - 2013 | 中国 China </small><br>
+本科, 材料科学, 北京交通大学<br><img src="https://XuHongCN.github.io/images/BJTU_logo.png" width="40" align="right" ><br/>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
