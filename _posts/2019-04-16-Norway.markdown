@@ -18,3 +18,4 @@ tags:   [挪威,Norway]
 {% endhighlight %}  
 
 ![](/img/norway/norway01.jpg)
+> 2019.04 - 松恩湖の挪威森林, 挪威奧斯陸 - Sognsvann, Olso, Norway 🇳🇴 
