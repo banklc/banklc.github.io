@@ -9,7 +9,7 @@ permalink: /about/
 <small>1993 - Present | PEK - CDG - MUC - ZRH ->? </small>
 
 
-My name is Hong Xu, I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been ffal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim. | ![](/img/about/a01.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+My name is Hong Xu, I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been . | ![](/img/about/a01.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 #### 教育背景 Education
 <small>2016 - 2020 | Zurich, Switzerland </small><br>
