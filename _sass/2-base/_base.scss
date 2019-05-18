@@ -178,7 +178,7 @@ pre {
 
 table {
   font-size: 12px;
-  color:$white;
+  color:$body-color;
   width: 100%;
   border-width: 1px;
   border-color: $gray-blue;
@@ -190,7 +190,7 @@ table th {
   font-size: 16px;
   text-align: left;
   border: 1px solid $gray-blue;
-  color: $white;
+  color: $body-color;
   background-color: transparent;
   /*background-color: $primary-color;*/
 }
