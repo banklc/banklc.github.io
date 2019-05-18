@@ -29,28 +29,6 @@ permalink: /about/
   </table>
 </div>
 
-
-
-
-<small>Smart Phones </small>  
-2009/Nokia N81  
-2010/Nokia N85  
-2011/Motorola ME860   
-2012/HTC T528w  
-2013/iPhone 5s   
-2017/iPhone 7   
-2019/Huawei Mate 20   
-
-<small>Digital Camera</small><br>
-2009/SONY DSC-T900<br>
-
-<small>Single-lens Reflex Camera</small><br>
-2012/Nikon D90<br>
-
-<small>Action Camera </small><br>
-2015/GoPro Hero 5 (lost)<br>
-2016/GoPro Hero 5<br>
-
 ---
 
 #### 教育背景 Education
