@@ -13,7 +13,7 @@ tags:   [以光之名]
 
 摄影——以光之名的哲学。
 
-![]({{site.baseurl}}/img/Cover/SLS.png)
+![](/img/Cover/SLS.png)
 
 <p style='text-align: justify;'>Strasbourg is a particularly magical city for me. It is located in the Alsace-Lorraine region with left-hand towards France and right-hand towards Germany. It has been a battleground for the military since ancient times between these two countries. After several changes of regime, eventually it joined the French Republic. Being famous in the name of Christmas Capital (French: Capitale de Noël), the whole city will be decorated into a fairytale world during Christmas. In 2014, the first Christmas Eve spent in France, I arrived in Strasbourg from Luxembourg with heavy snow everywhere. The train station in Strasbourg is very special, as the old railway station is set in a modern glass enclosure, which is quite a feeling of vicissitudes. After the sunset came to the darkness, the city is lighnted by color neon on the streets. The moment I pressed the camera shutter, the photo freezed as you see now.</p>
 
