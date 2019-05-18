@@ -9,7 +9,7 @@ permalink: /about/
 <small>1993 - Present | PEK - CDG - MUC - ZRH ->? </small>
 
 
-My name is Hong Xu, I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been . | ![](/img/about/a01.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+My name is Hong Xu, I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been. I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been. I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been. I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been. I'm currently a doctoral candidate at ETH Zürich in Switzerland. Photography has been. | ![](/img/about/a01.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 #### 教育背景 Education
 <small>2016 - 2020 | Zurich, Switzerland </small><br>
