@@ -15,14 +15,31 @@ permalink: /about/
 ---
 
 #### 摄影器材 Equipments
-| <small>Smart Phones </small> | <small>Digital Camera</small>| 
-| 2009/Nokia N81 | 2009/SONY DSC-T900| 
-| 2010/Nokia N85 |  | 
-| 2011/Motorola ME860 | <small>Single-lens Reflex Camera</small>| 
-| 2012/HTC T528w | 2012/Nikon D90| 
-| 2013/iPhone 5s |  | 
-| 2017/iPhone 7 | <small>Action Camera </small>| 
-| 2019/Huawei Mate 20 | 2015/GoPro Hero 5| 
+
+<div class="table-container">
+  <table>
+    <tr><td><small>Smart Phones </small></td><td><small>Digital Camera</small></td></tr>
+    <tr><td>2009/Nokia N81</td><td>2009/SONY DSC-T900</td></tr>
+    <tr><td>2010/Nokia N85</td><td> </td></tr>
+    <tr><td>2011/Motorola ME860</td><td><small>Single-lens Reflex Camera</small></td></tr>
+    <tr><td>2012/HTC T528w</td><td>2012/Nikon D90</td></tr>
+    <tr><td>2013/iPhone 5s</td><td> </td></tr>
+    <tr><td>2017/iPhone 7</td><td><small>Action Camera </small></td></tr>
+    <tr><td>2019/Huawei Mate 20</td><td>2015/GoPro Hero 5</td></tr>
+  </table>
+</div>
+
+
+
+
+<small>Smart Phones </small>  
+2009/Nokia N81  
+2010/Nokia N85  
+2011/Motorola ME860   
+2012/HTC T528w  
+2013/iPhone 5s   
+2017/iPhone 7   
+2019/Huawei Mate 20   
 
 <small>Digital Camera</small><br>
 2009/SONY DSC-T900<br>
