@@ -32,6 +32,17 @@ permalink: /about/
 ---
 
 #### 教育背景 Education
+
+<div class="table-container">
+  <table>
+    <tr><td><small>2016 - 2020 | Switzerland</small></td><td><small>2015 - 2016 | Germany</small></td><td><small>2014 - 2015 | France</small></td><td><small>2009 - 2013 | China</small></td></tr>
+    <tr><td>Ph.D Candiate</td><td>Master Degree</td><td>Maîtrise Diploma</td><td>Bachelor Degree</td></tr>
+    <tr><td>Energy/Computational Imaging</td><td>Polyer Physics</td><td>Materials Physics</td><td>Materials Science</td></tr>
+    <tr><td>ETH Zurich</td><td>Technical University of Munich</td><td>University of Rennes I</td><td>Beijing Jiaotong University</td></tr>
+  </table>
+</div>
+
+
 <small>2016 - 2020 | Switzerland </small><br>
 Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
