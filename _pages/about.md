@@ -20,7 +20,7 @@ Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicl
 
 #### Education
 <small>2016 - 2020 </small><br>
-Ph.D Candiate, Energy/Computational Imaging, ETH Zürich<br>
+Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
 <small>2014 - 2016 </small><br>
 M.Sc, Materials Physics, Technical University of Munich<br>
