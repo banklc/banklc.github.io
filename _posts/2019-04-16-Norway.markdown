@@ -8,6 +8,7 @@ tags:   [挪威,Norway]
 
 ### 挪威的森林 - Norwegian Wood - ノルウェーの森
 
+
 <div class="table-container">
   <table>
     <tr><td>那里湖面总是澄清</td><td>The lake is always clear</td></tr>
@@ -17,6 +18,7 @@ tags:   [挪威,Norway]
     <tr><td>伍佰 & China Blue《挪威的森林》</td><td>Wubai & China Blue "Norwegian Wood" Lyric</td></tr>
   </table>
 </div>
+
 
 
 一直有个声音告诉我，去挪威！
