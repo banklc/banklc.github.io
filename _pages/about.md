@@ -18,7 +18,7 @@ permalink: /about/
 
 <div class="table-container">
   <table>
-    <tr><td><small>Smart Phones </small></td><td><small>Digital Camera</small></td><td><small>Single-lens Reflex Camera</small></td><td><small>Action Camera</small></td></tr>
+    <tr><td><small>手机 Smart Phones </small></td><td><small>相机 Digital Camera</small></td><td><small>单反 Single-lens Reflex Camera</small></td><td><small>运动相机 Action Camera</small></td></tr>
     <tr><td>2009/Nokia N81</td><td>2009/SONY DSC-T900</td><td>2012/Nikon D90</td><td>2015/GoPro Hero 5 (lost)</td></tr>
     <tr><td>2010/Nokia N85</td><td> </td><td> </td><td>2016/GoPro Hero 5</td></tr>
     <tr><td>2011/Motorola ME860</td><td> </td></tr>
@@ -33,12 +33,18 @@ permalink: /about/
 
 #### 教育背景 Education
 
-<small>2016 - 2020 | Switzerland </small><br>
+<small>2016 - 2020 | 瑞士 Switzerland </small><br>
+博士生, 能源与计算机成像, 苏黎世联邦理工<br>
 Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
-<small>2014 - 2016 | France, Germany </small><br>
+<small>2015 - 2016 | 德国 Germany </small><br>
+硕士, 高分子物理, 慕尼黑工大<br>
 M.Sc, Polyer Physics, Technical University of Munich<br>
-M.Sc, Materials Physics, University of Rennes I<br>
+
+<small>2014 - 2015 | 法国 France </small><br>
+硕士, 材料物理, 雷恩一大<br>
+Maîtrise, Materials Physics, University of Rennes I<br>
 
 <small>2009 - 2013 | China </small><br>
+本科, 材料科学, 北京交通大学<br>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
