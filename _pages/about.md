@@ -14,14 +14,14 @@ permalink: /about/
 ---
 
 #### 摄影器材 Equipments
-<small>Smart Phones </small><br> | <small>Digital Camera</small><br>
-2009/Nokia N81<br> | 2009/SONY DSC-T900<br>
-2010/Nokia N85<br> |  
-2011/Motorola ME860<br> | <small>Single-lens Reflex Camera</small><br>
-2012/HTC T528w<br> | 2012/Nikon D90<br>
-2013/iPhone 5s<br> | 
-2017/iPhone 7<br> | <small>Action Camera </small><br>
-2019/Huawei Mate 20<br> | 2015/GoPro Hero 5<br>
+<small>Smart Phones </small> | <small>Digital Camera</small>
+2009/Nokia N81 | 2009/SONY DSC-T900
+2010/Nokia N85 |  
+2011/Motorola ME860<br> | <small>Single-lens Reflex Camera</small>
+2012/HTC T528w | 2012/Nikon D90
+2013/iPhone 5s | 
+2017/iPhone 7 | <small>Action Camera </small>
+2019/Huawei Mate 20 | 2015/GoPro Hero 5
 
 <small>Digital Camera</small><br>
 2009/SONY DSC-T900<br>
