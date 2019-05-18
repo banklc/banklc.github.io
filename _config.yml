@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 30
+paginate: 7
 paginate_path: "/page/:num"
 
 include:
