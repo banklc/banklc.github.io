@@ -21,5 +21,5 @@ Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 M.Sc, Polyer Physics, Technical University of Munich<br>
 M.Sc, Materials Physics, University of Rennes I<br>
 
-<small>2009 - 2013 | Beijing, China </small><br>
+<small>2009 - 2013 | China </small><br>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
