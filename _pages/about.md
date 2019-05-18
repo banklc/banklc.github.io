@@ -16,8 +16,8 @@ permalink: /about/
 Ph.D Candiate, Energy/Computational Imaging, ETH Zurich<br>
 
 <small>2014 - 2016 | France, Germany </small><br>
-M.Sc, Polymer Physics, Technical University of Munich<br>
-M.Sc, Physics, University of Rennes I<br>
+M.Sc, Polyer Physics, Technical University of Munich<br>
+M.Sc, Materials Physics, University of Rennes I<br>
 
 <small>2009 - 2013 | Beijing, China </small><br>
 B.Sc, Materials Science, Beijing Jiaotong University<br>
