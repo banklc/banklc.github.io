@@ -32,7 +32,7 @@ There ought to be a difference between Zhuāng Zhōu and a butterfly.
 But this is called the transformation of things.
 
 莊周夢蝶 ——《莊子·齊物論》  
-Source: Zhuāngzǐ (369-286BC), “The Equivalence of Things” , chapter 14, lines 94-95. 
+Source: Zhuāngzǐ (369-286BC, Ancient Chinese Philosopher), “The Equivalence of Things” , chapter 14, lines 94-95. 
 
 ---
 ![](/img/nature/n04.jpg)
