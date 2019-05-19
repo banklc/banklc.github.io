@@ -32,13 +32,13 @@ The sky was low, the river, wide.
 As a lone goose in the west wind cried.  
 
 
-而今聽雨僧廬下，鬢已星星也悲歡離合。    
+而今聽雨僧廬下，鬢已星星也。    
 Th' sound of falling rain I now trace,  
 In a monk's quiet lodging place,   
-Where my temple hair's growing gray --  
-Grief, joy, parting, union display.  
+Where my temple hair's growing gray --   
 
-總無情，一任階前，點滴到天明。    
+悲歡離合總無情，一任階前，點滴到天明。     
+Grief, joy, parting, union display.   
 Their non-sentimental dismay.  
 Falling on the steps O let the rain partake,  
 Drop by drop slowly, till the day does break.  
