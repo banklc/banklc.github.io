@@ -10,7 +10,7 @@ image: /story/s01.JPG
 A story I have, for a free beer?
 
 ---
-
+<!---
 虞美人 · 聽雨    
 TUNE: YU MEI REN  "Fair Lady Yu"; TITLE: LISTENING TO THE RAIN  
 
@@ -32,6 +32,7 @@ Where my temple hair's growing gray --
 悲歡離合總無情，一任階前，點滴到天明。     
 Grief, joy, parting, union display. Their non-sentimental dismay.  
 Falling on the steps O let the rain partake, Drop by drop slowly, till the day does break.  
+-->
 
 ---
 
