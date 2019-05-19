@@ -6,10 +6,11 @@ image: /story/s01.JPG
 ---
 > 2015.02 - 守護聖母聖殿山頂, 法國馬賽 - Notre-Dame de la Garde, Marseille, France 🇫🇷 
 
-我有故事，你有酒吗？  
-A story I have, for a free beer?
+### <center>我有故事，你有酒吗？</center>  
+### <center>A story I have, for a free beer?</center>  
 
 ---
+
 <!---
 虞美人 · 聽雨    
 TUNE: YU MEI REN  "Fair Lady Yu"; TITLE: LISTENING TO THE RAIN  
@@ -33,8 +34,6 @@ Where my temple hair's growing gray --
 Grief, joy, parting, union display. Their non-sentimental dismay.  
 Falling on the steps O let the rain partake, Drop by drop slowly, till the day does break.  
 -->
-
----
 
 <center>我路过山峰 I was crossing the mountain peaks</center>  
 <center>我遇见海洋 I encounter the blue ocean</center>  
