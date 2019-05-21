@@ -9,7 +9,7 @@ image: /film/f01.jpg
 動則印像  
 Film is an integration of images on temporal scale.
 
-<video width="320" height="240" controls>
+<video width="720" height="540" controls>
   <source src="/video/demo.mp4" type="video/mp4">
   <object data="/video/demo.mp4" width="320" height="240">
   </object> 
