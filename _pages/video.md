@@ -10,8 +10,8 @@ image: /film/f01.jpg
 Film is an integration of images on temporal scale.
 
 <video width="720" height="480" controls>
-  <source src="/video/demo.mp4" type="video/mp4">
-  <object data="/video/demo.mp4" width="320" height="240">
+  <source src="/video/Easter2018Small.mp4" type="video/mp4">
+  <object data="/video/Easter2018Small.mp4" width="720" height="480">
   </object> 
 </video>
 
