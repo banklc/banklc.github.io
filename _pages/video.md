@@ -13,7 +13,7 @@ https://www.zhihu.com/video/1106389872612454400
 --->
 
 <video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-  <object data="demo.mp4" width="320" height="240">
+  <source src="/video/demo.mp4" type="video/mp4">
+  <object data="/video/demo.mp4" width="320" height="240">
   </object> 
 </video>
