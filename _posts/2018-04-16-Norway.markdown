@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  挪威 Norway 🇳🇴 Norge
-date:   2019-04-16 16:03:30 +0300
+date:   2018-04-16 16:03:30 +0300
 image:  Norway.jpg
 tags:   [挪威,Norway]
 ---
@@ -26,7 +26,7 @@ tags:   [挪威,Norway]
 ---
 
 ![](/img/norway/norway01.jpg)
-> 2019.04 - 松恩湖の挪威森林, 挪威奧斯陸 - Sognsvann, Olso, Norway 🇳🇴 
+> 2018.04 - 松恩湖の挪威森林, 挪威奧斯陸 - Sognsvann, Olso, Norway 🇳🇴 
 
 ---
 There is always a voice in my mind, GO TO NORWAY!
