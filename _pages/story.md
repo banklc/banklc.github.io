@@ -13,7 +13,7 @@ image: /story/s01.JPG
 
 <audio controls="controls">
   <source src="/music/rainbow.mp3" type="audio/mpeg">
-<embed height="100" width="100" src="/music/rainbow.mp3" />
+<embed width="100%" src="/music/rainbow.mp3" />
 </audio>
 
 ---
