@@ -37,6 +37,15 @@ Film is an integration of images on temporal scale.
 </video>
 
 ---
+### 冬日印象 - 瑞士 Winter Impression - Switzerland
+
+<video width="100%" style="display:block; margin: 0 auto;" controls>
+  <source src="/video/SwissWinter.mp4" type="video/mp4">
+  <object data="/video/SwissWinter.mp4" width="720" height="480">
+  </object> 
+</video>
+
+---
 ### 又见欧洲 - 探亲访友 Europe Once Again - Family Reunion Trip
 
 <video width="100%" style="display:block; margin: 0 auto;" controls>
