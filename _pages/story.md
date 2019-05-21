@@ -11,6 +11,13 @@ image: /story/s01.JPG
 
 ---
 
+<audio controls="controls">
+  <source src="/music/rainbow.mp3" type="audio/mpeg">
+<embed height="100" width="100" src="/music/rainbow.mp3" />
+</audio>
+
+---
+
 <!---
 虞美人 · 聽雨    
 TUNE: YU MEI REN  "Fair Lady Yu"; TITLE: LISTENING TO THE RAIN  
