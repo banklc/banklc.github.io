@@ -9,7 +9,7 @@ permalink: /about/
 <small>1993 - Present | PEK - CDG - MUC - ZRH ->? </small>
 <p style='text-align: justify;'></p>
 
-我叫Hong，在中国长大。<br><br>目前是苏黎世联邦理工的一名在读博士生。X射线让我看到了超乎想象的奇妙微观世界，而光子照亮了我的生活让我能目睹这纷繁变迁的大千世界。不论是以科学亦或艺术的形式，摄影于我而言是以光之名的哲学。<br><br><br>My name is Hong, born and raised in China.<br><br>Currently I'm a doctoral candidate at ETH Zürich in Switzerland. X-ray tomography enables me to see the wonderful microscopic world beyond imagination, while photon has enlighted my life towards witnessing the rapid changing grand world by photography. No matter in the form of science or art, X-graphy is a philosophy for me in the name of the light. | <img src="/img/about/a01.jpg" alt="" width="100%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+我叫Hong，在中国长大。<br><br>目前是苏黎世联邦理工的一名在读博士生。X射线让我看到了超乎想象的奇妙微观世界，而光子照亮了我的生活让我能目睹这纷繁变迁的大千世界。不论是以科学亦或艺术的形式，摄影于我而言是以光之名的哲学。<br><br>My name is Hong, born and raised in China.<br><br>Currently I'm a doctoral candidate at ETH Zürich in Switzerland. X-ray tomography enables me to see the wonderful microscopic world beyond imagination, while photon has enlighted my life towards witnessing the rapid changing grand world by photography. No matter in the form of science or art, X-graphy is a philosophy for me in the name of the light. | <img src="/img/about/a01.jpg" alt="" width="100%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
 
 ---
 
