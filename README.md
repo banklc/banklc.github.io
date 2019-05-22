@@ -1,1 +1,2 @@
-### X-graphy, X could be Photo/X-ray/Tomo
+### X-graphy
+#### Photography/Tomography/Radiography/Topography/Ptychography/Mammography
