@@ -11,6 +11,16 @@ image: /film/f01.jpg
 
 
 ---
+### 2019 | 蓝色土耳其 | Anchor in Blue Turkey
+
+<video width="100%" style="display:block; margin: 0 auto;" controls>
+  <source src="/video/AnchorTurkeyHX.mp4" type="video/mp4">
+  <object data="/video/AnchorTurkeyHX.mp4" width="720" height="480">
+  </object> 
+</video>
+<br>
+
+---
 ### 2019 | 挪威の城市森林 | Norwegian City Wood
 
 <video width="100%" style="display:block; margin: 0 auto;" controls>
