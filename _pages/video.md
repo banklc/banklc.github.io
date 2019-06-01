@@ -31,6 +31,16 @@ image: /film/f01.jpg
 <br>
 
 ---
+### 2019 | 冰島 - 流浪地球 | Iceland - The Wandering Earth
+
+<video width="100%" style="display:block; margin: 0 auto;" controls>
+  <source src="/video/IcelandTrip.mp4" type="video/mp4">
+  <object data="/video/IcelandTrip.mp4" width="720" height="480">
+  </object> 
+</video>
+<br>
+
+---
 ### 2018 | 北欧，一路向北 | Northern Europe, All the Way to the North
 
 <video width="100%" style="display:block; margin: 0 auto;" controls>
