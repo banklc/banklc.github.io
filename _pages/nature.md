@@ -74,3 +74,7 @@ Source: Zhuāngzǐ (369-286BC, Ancient Chinese Philosopher), “The Equivalence 
 ![](/img/nature/n15.JPG)
 > 2016.02 - 哈尔施塔特, 奥地利 - Hallstadt, Austria 🇦🇹
 
+---
+![](https://lh3.googleusercontent.com/genew_ZEfuCnfEqJHItn9vqRd-iIrqVxkJroyqoir2psp9kBSsrDGn_fbCuQUZ8k3h7HjU-2TBsZxSQtF8VlkO2GVQXA55H0d2GqrtxTtcG9YFvHkLBx_wFO1cjx2PsyIZBAoFZtIVXC3zP2nfR0vRaa99R76k3b41UpsyOA9sB_hBogHWPVwyPRVFj6yxk3TVaAcG0vL3ncZO8pKHdrXPAb5a2i3UTi0kHnJfR7if_EC9qAk_88H0Nj0zTJx9jkm39WQqIiLLgbaxGmmtdQwBWnb7d7Rj53oFcbht28f9xfo3XyqDh1llNPqhDWtIgGrrYZakb4hPaTpUF26oL96BhgCN78-8EdRztJjiYBxyoNANw5kAuD-lOdvMewAgsg2ynu0QY_djhJx3pzn6gQG_HXFeRMS9kB6jFXKoFZ_bmhv8YvUGFl480zoILA2t1bNcxh3_Z5xEJ6jhNcbHNFkf4slHii3OV1nMmhl5qP7Lg92qivFtbRGsHBU6pmWUkvV_SystMVp7wTtoNF1lXlI77bfXJZHOftaFlJ0OPeWUsfYxbZizwoG1Vi1fIWleCXngn1pVJ_PfzdAqUW27QnnZxnloT29BSfHX2fAqFZU-_YzoZowD6B0CmSDQgT_rGETggrNnjn9TisYxuwQPPXbQkvL-639bp_=w1535-h975-no)
+> 2019.05 - 伯尔尼熊苑, 瑞士 - Bern Bärenpark, Switzerland 🇨🇭
+
