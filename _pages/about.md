@@ -36,14 +36,6 @@ permalink: /about/
 博士生, 能源与计算机成像, 苏黎世联邦理工<br>
 Ph.D Candiate, Renewable Energy/Computational Imaging, ETH Zurich<br>
 
-<small>2015 - 2016 | 德国 Germany </small><br>
+<small>2014 - 2016 | 德国 Germany </small><br>
 硕士, 材料科学, 慕尼黑工大<br>
 M.Sc, Materials Science, Technical University of Munich<br>
-
-<small>2014 - 2015 | 法国 France </small><br>
-硕士, 材料物理, 雷恩一大<br>
-Maîtrise, Materials Physics, University of Rennes I<br>
-
-<small>2009 - 2013 | 中国 China </small><br>
-本科, 材料化学, 北京交通大学<br>
-B.Sc, Materials Science, Beijing Jiaotong University<br>
