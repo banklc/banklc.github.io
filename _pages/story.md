@@ -5,8 +5,8 @@ permalink: /story/
 image: /story/s01.JPG
 ---
 
-### <center>我有故事，你有酒吗？</center>  
-### <center>A story I have, for a free beer?</center>  
+## <center>我有故事，你有酒吗？</center>  
+## <center>A story I have, for a free beer?</center>  
 
 <!---
 <audio controls="controls">
