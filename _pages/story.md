@@ -42,16 +42,51 @@ Grief, joy, parting, union display. Their non-sentimental dismay.
 Falling on the steps O let the rain partake, Drop by drop slowly, till the day does break.  
 --->
 
-
+---
 <center>我路过山峰 I was crossing the mountain peaks</center>  
+![](/img/story/s02.jpg)
+> 2017 - 马特洪峰, 采尔马特, 瑞士 - Matthorn, Zermatt, Switzerland 
+
+---
 <center>我遇见海洋 I encounter the blue ocean</center>  
-<center>水晶斑驳海面上 Crystal mottled sea water front</center>  
+![](/img/story/s03.jpg)
+> 2019 - 凯尔末, 安塔利亚, 土耳其 - Kemer, Antalya, Turkey 
+
+---
+<center>水晶斑驳海面上 Crystal mottled sea water front</center> 
+![](/img/story/s08.jpg)
+> 2019 - 甲米, 泰国 - Krabi, Thailand
+
+---
 <center>七色的风帆 There are colorful sails</center>  
-<center>我枕着星河 I am sleeping in the Milky Way</center>  
+![](/img/story/s08.jpg)
+> 2017 - 洛桑湖畔, 瑞士 - Laussane, Switzerland
+
+---
+<center>我枕着星河 I am sleeping in the Milky Way</center> 
+![](/img/story/s29.jpg)
+> 2017 - 卢加诺湖畔, 瑞士 - Lugano, Switzerland
+
+---
 <center>我躺在云端 I am lying in the clouds</center>  
-<center>晚风呢喃青草岸 Evening wind whispering grass shore</center>  
-<center>钟声吻霞光 Bell rings kiss the twlight</center>  
-<center>啊啊 世界很大 Ah, how grand the world is!</center>  
+![](/img/story/s07.JPG)
+> 2014 - 上海 - 巴黎 航班 - Shanghai to Paris Flight
+
+---
+<center>晚风呢喃青草岸 Evening wind whispering grass shore</center>
+![](/img/story/s21.jpg)
+> 2013 - 安庆, 中国 - Anqing, China
+
+---
+<center>钟声吻霞光 Bell rings kiss the twlight</center> 
+![](/img/story/s09.jpg)
+> 2015 - 马赛, 法国 - Marseille, France
+
+---
+<center>啊啊 世界很大 Ah, how grand the world is!</center>
+![](/img/story/s12.jpg)
+> 2019 - 布雷恩茨山顶, 瑞士 - Brienzerhorn, Switzerland
+
 <center>有多少 日夜独往 How many days and nights, alone.</center>  
 <center>啊啊 旅途漫长 Ah, the journey is long.</center>  
 <center>共一曲 歌谣相伴 Acommpanied with a song</center>  
