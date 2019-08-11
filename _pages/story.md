@@ -9,14 +9,12 @@ image: /story/s01.JPG
 ### <center>我有故事，你有酒吗？</center>  
 ### <center>A story I have, for a free beer?</center>  
 
----
 <!---
 <audio controls="controls">
   <source src="/music/rainbow.mp3" type="audio/mpeg">
 <embed width="100%" src="/music/rainbow.mp3" />
 </audio>
 --->
----
 
 <!---
 虞美人 · 聽雨    
@@ -43,7 +41,7 @@ Falling on the steps O let the rain partake, Drop by drop slowly, till the day d
 --->
 
 ---  
-<center>我路过山峰 I was crossing the mountain peaks</center>    
+<center><h3>我路过山峰 I was crossing the mountain peaks</h3></center>    
 ![](/img/story/s02.jpg)  
 > 2017 - 马特洪峰, 采尔马特, 瑞士 - Matthorn, Zermatt, Switzerland   
 
