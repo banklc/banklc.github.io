@@ -10,12 +10,12 @@ image: /story/s01.JPG
 ### <center>A story I have, for a free beer?</center>  
 
 ---
-
+<!---
 <audio controls="controls">
   <source src="/music/rainbow.mp3" type="audio/mpeg">
 <embed width="100%" src="/music/rainbow.mp3" />
 </audio>
-
+--->
 ---
 
 <!---
@@ -40,7 +40,8 @@ Where my temple hair's growing gray --
 悲歡離合總無情，一任階前，點滴到天明。     
 Grief, joy, parting, union display. Their non-sentimental dismay.  
 Falling on the steps O let the rain partake, Drop by drop slowly, till the day does break.  
--->
+--->
+
 
 <center>我路过山峰 I was crossing the mountain peaks</center>  
 <center>我遇见海洋 I encounter the blue ocean</center>  
