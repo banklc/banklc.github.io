@@ -2,7 +2,7 @@
 layout: post
 title:  冰島 Iceland 🇮🇸 Ísland 
 date:   2018-04-15 16:03:30 +0300
-image:  Denmark.jpg
+image:  Iceland.jpg
 tags:   [冰島,Iceland]
 ---
 ### 流浪地球
