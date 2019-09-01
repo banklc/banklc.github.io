@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 故事/Story
-permalink: /story/
+permalink: /3story/
 image: /story/s01.JPG
 ---
 
