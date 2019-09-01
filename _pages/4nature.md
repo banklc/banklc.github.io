@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 自然/Nature
-permalink: /nature/
+permalink: /4nature/
 image: /nature/n01.JPG
 ---
 > 2013.10 - 大理蝴蝶泉, 中國雲南 - Butterfly Spring, Dali, Yunnan, China 🇨🇳 
