@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 影像/Film
+title: 影像/Video
 permalink: /video/
 image: /film/f01.jpg
 ---
