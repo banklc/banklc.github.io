@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 影像/Video
-permalink: /video/
+permalink: /2video/
 image: /film/f01.jpg
 ---
 > 2018.12 - 布雷山, 瑞士盧加諾 - Monte Bré, Lugano, Switzerland 🇨🇭
