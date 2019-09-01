@@ -2,7 +2,7 @@
 layout: page
 title: 关于/About
 image: Author2.JPG
-permalink: /about/
+permalink: /1about/
 ---
 
 #### 我是誰 Who am I? 
