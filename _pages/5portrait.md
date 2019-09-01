@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 肖像/Portrait
-permalink: /portrait/
+permalink: /5portrait/
 image: /portrait/p01.jpg
 ---
 > 2013.02 - 枞陽江畔, 中國安徽 - Zongyang Yangtze River Bank, China 🇨🇳 
