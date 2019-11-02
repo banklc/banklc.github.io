@@ -2,7 +2,7 @@
 layout: post
 title:  加拿大 Canada 🇨🇦 Le Canada
 date:   2019-10-11 16:03:30 +0300
-image:  Canada2.jpg
+image:  Canada.jpg
 tags:   [加拿大,Canada]
 ---
 ### 楓葉國
