@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: HongX - Photography
+title: Helios Xu - Photography
 description: This is me. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Xgraphy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
