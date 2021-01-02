@@ -15,9 +15,9 @@ tags:   [以光之名]
 <p style='text-align: justify;'>从此，「光」便是我生命不可或缺的一部分。夕阳西下的暮光，日出时分的晨光，一路向北的极光，以及同步光源的X光，都是我所热爱的，追逐的，光芒。科学和艺术大概是两座高峰，但当你有幸登上其中一座，你大概会发现，那笼罩在周围的，是哲学的迷雾。我期待在瑞士光源的日夜中用X光揭开微观世界的重重谜题，我也期待拿起手中的相机用可见光记录下大千世界的波澜壮阔。我更期待黑夜过去，地平线上我就是那道「光」。</p>
 
 摄影——以光之名的哲学。
-![](/img/Cover/SLS.png)
----
 
+---
+![](/img/Cover/SLS.png)
 
 <small>图例: a) 凌晨四点钟的瑞士光源; b) 0.1秒超快同步光源CT; c) 超快CT用于燃料电池气体扩散层中水的实时可视化</small><br>
 <small>Figure: a) The Swiss Light Source entrance at 4:00AM; b) 0.1s fast synchrotron X-ray tomography (sXTM) for Fuel Cell Research; c) Visulization of water in gas diffusion layer (GDL: Freudenberg I6) in operando polymer electrolyte fuel cells (PEFCs) by 0.1s fast sXTM.</small>
